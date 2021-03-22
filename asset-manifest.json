@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/saulo-des/clima/static/js/main.d80eb787.chunk.js",
+    "main.js.map": "/saulo-des/clima/static/js/main.d80eb787.chunk.js.map",
+    "runtime-main.js": "/saulo-des/clima/static/js/runtime-main.994f1c2e.js",
+    "runtime-main.js.map": "/saulo-des/clima/static/js/runtime-main.994f1c2e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/saulo-des/clima/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40a5b039.chunk.js": "/saulo-des/clima/static/js/2.40a5b039.chunk.js",
+    "static/js/2.40a5b039.chunk.js.map": "/saulo-des/clima/static/js/2.40a5b039.chunk.js.map",
+    "index.html": "/saulo-des/clima/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/saulo-des/clima/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.40a5b039.chunk.js.LICENSE.txt": "/saulo-des/clima/static/js/2.40a5b039.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994f1c2e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.40a5b039.chunk.js",
+    "static/js/main.d80eb787.chunk.js"
+  ]
+}
